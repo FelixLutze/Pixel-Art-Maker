@@ -1,7 +1,7 @@
 # Pixel-Art-Maker
 Choose the Grid Size and a colour to start painting your Masterpiece.
 
-Written in HTML and CSS.
+Written in HTML, CSS and JavaScript.
 
 ## Getting Started
 
