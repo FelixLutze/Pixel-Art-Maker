@@ -1,5 +1,5 @@
 # Pixel-Art-Maker
-Choose the Grid Size and a colour to start painting your Masterpiece.
+Choose the Grid Size and color to start painting your Masterpiece.
 
 Written in HTML, CSS and JavaScript.
 
@@ -14,4 +14,4 @@ You'll need a modern Browser like chrome or firefox to run it properly.
 
 ## Examples
 
-![Alt text](https://dev.felixlutze.net/imgs/pixel-art-maker.png "Pixel Art Maker")
+![Pixel Art Maker](https://dev.felixlutze.net/imgs/pixel-art-maker.png "Pixel Art Maker")
