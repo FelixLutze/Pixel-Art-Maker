@@ -7,7 +7,7 @@ Try it out at https://dev.felixlutze.net/pixel-art-maker/
 
 ### Prerequisites
 
-A modern web browser is recommended to support the JavaScript used in the app.
+A modern web browser is recommended to support the JavaScript used by app.
 
 
 ## Examples
