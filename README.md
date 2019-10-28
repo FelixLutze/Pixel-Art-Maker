@@ -1,8 +1,6 @@
 # Pixel-Art-Maker
 Choose Grid Size and color to start painting your Masterpiece.
 
-Written in HTML, CSS and JavaScript.
-
 ## Getting Started
 
 Try it out at https://dev.felixlutze.net/pixel-art-maker/
